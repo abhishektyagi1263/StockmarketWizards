@@ -261,3 +261,15 @@ footer {
 	padding: 20px;
 	text-align: center;
 }
+.list-el{
+    text-decoration: none;
+    list-style: none;
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+.list-el i{
+    margin-right: 10px;
+    fill: rgb(2,0,36);
+    /* background: linear-gradient(183deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 32%, rgba(0,212,255,1) 100%); */
+  
+}
